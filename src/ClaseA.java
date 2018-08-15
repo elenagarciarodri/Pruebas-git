@@ -1,7 +1,7 @@
 
 public class ClaseA {
 
-	//Esta es ClaseA original
+	//Esta es ClaseA original - BranchUno
 	
 	/*
 	 * Todas
@@ -14,17 +14,19 @@ public class ClaseA {
 	 * con
 	 * el
 	 * git
-	 * 
+	 * Incluyo en BranchUno
 	 * Comentario para borrar
 	 */
 	
 	int num1;
 	int num2;
-	int num3;
+
 	int num4;
 	int num5;
 	
 	String variableParaBorrar = null;
+	
+	String branchUno ="";
 	
 	
 
